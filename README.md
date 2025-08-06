@@ -1,0 +1,2 @@
+# HMCLOCK_ESP32SERVER
+为盒马时钟HMCLOCK项目设计的ESP32授时服务端
