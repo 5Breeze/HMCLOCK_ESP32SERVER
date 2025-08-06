@@ -73,3 +73,6 @@ https://github.com/vincascm/cdate
 | `农历算法`      | 支持 1900~2051 年的阳历转农历             |
 
 ---
+## 串口打印授时成功示例
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/5c37ea0d-302e-4393-9a5f-a116f0342ef8" />
+
